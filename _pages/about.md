@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ai Siyi"
+title: "Siyi Bai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -74,6 +74,6 @@ entering the community
 
 Skills&Interests
 ------
-<b>Research skills:</b> Research planning, data collection and analysis, normalizing the findings & preparing the report (in presentation and essay).
-<b>Interests:</b> playing ping-pang, badminton and Chinese chess
+* <b>Research skills:</b> Research planning, data collection and analysis, normalizing the findings & preparing the report (in presentation and essay).
+* <b>Interests:</b> playing ping-pang, badminton and Chinese chess
 
