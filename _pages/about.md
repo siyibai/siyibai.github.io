@@ -23,14 +23,14 @@ EDUCATION
 Research experience
 ------
 * Major research project: Study on the Molecular Mechanism of ATF5 on Repair and Regeneration of the Liver Injury
-  \nResearcher of Associate professor Yuan Yunsheng      2018-present, Shanghai
+  <br />Researcher of Associate professor Yuan Yunsheng      2018-present, Shanghai
   *	Construct liver-specific ATF5-knock-out mice by Cre-loxP gene recombination technology.
   * Establish animal models including APAP-induced acute liver injury model and high-fat-diet induced NAFLD model.
   * Analyzed lipid and enzyme metabolism by mass spectrometry, lipidomics and proteomics analysis involved.
 
 
 *	Potential therapeutic effects of domain-based Fc fusion mutants of soluble receptor for advanced glycation end products(sRAGE) on APAP-induced liver injury in mice
-  \nResearcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
+  <>Researcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
   * Construct and express the gene expression vector of Human recombinant sRAGE and its mutants.
   * Conduct animal experiments, including ip. injections, collecting blood by retro-orbital puncture, cervical dislocation and dissection to collect the liver tissue.
   * Measure the concentration of correlation factors such as GSH and MDA
