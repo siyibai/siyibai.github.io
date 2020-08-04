@@ -30,27 +30,27 @@ Research experience
 
 
 *	Potential therapeutic effects of domain-based Fc fusion mutants of soluble receptor for advanced glycation end products(sRAGE) on APAP-induced liver injury in mice
-  <>Researcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
+  <br />Researcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
   * Construct and express the gene expression vector of Human recombinant sRAGE and its mutants.
   * Conduct animal experiments, including ip. injections, collecting blood by retro-orbital puncture, cervical dislocation and dissection to collect the liver tissue.
   * Measure the concentration of correlation factors such as GSH and MDA
 
 
 * Study on Expression, Purification and Activity of Recombinant Human Osteopontin in Mammalian Cells
-  \nResearch assistant of Associate professor Yuan Yunsheng       2019, Shanghai
+  <br />Research assistant of Associate professor Yuan Yunsheng       2019, Shanghai
   * Assist in the expression of recombinant human Osteopontin by transient transfection ofHEK 293E cells, using the PEI transfection method.
   * Analyzed the size and purity ofthe protein through SDS-page and westernblot
   * Perform a scratch test to detect the migration oftumor cell(A549)
 
 
 * Phosphoproteomic analysis in ConA-induced AML12 cell injury
-  \nResearch assistant ofAssociate professor Yuan Yunsheng        2019, Shanghai
+  <br />Research assistant ofAssociate professor Yuan Yunsheng        2019, Shanghai
   * Assist in the culture ofAML12 cell and HepG2 cell
   * Use Real-time PCR to detect the changes ofFGL1 mRNA levels
 
 
 * Study on the Hepatoprotective Activity ofthe Ethyl Acetate Extract of Cephalonia
-  \nResearcher ofAssociate professor Wang Guowei             2017-2018, Chongqing
+  <br />Researcher ofAssociate professor Wang Guowei             2017-2018, Chongqing
   * Obtain the ethyl acetate extract of Cephalonia through pre-concentration and
 organic solvent extraction
   * Help conduct animal experiments, including gavage and the separation of serum
