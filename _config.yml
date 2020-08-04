@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huayi Yang"
+title                    : "Siyi Bai"
 title_separator          : "-"
-name                     : &name "Huayi Yang"
-description              : &description "CS Master Student at BUAA(yanghy#buaa.edu.cn)"
-url                      : https://yhy19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Siyi Bai"
+description              : &description "Master Student at Shanghai Jiao Tong University(baisiyi#sjtu.edu.cn)"
+url                      : http://siyibai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -75,18 +75,18 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-173609709-1"
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Huayi Yang"
+  name             : "Siyi Bai"
   avatar           : "profile.png"
-  bio              : "CS Master Student at BUAA\n<b>(yanghy#buaa.edu.cn)</b>"
-  location         : "Beijing."
+  bio              : "Master Student at \nShanghai Jiao Tong University\n<b>(baisiyi#sjtu.edu.cn)</b>"
+  location         : "Shanghai."
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yhy19"
+  github           : "siyibai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
