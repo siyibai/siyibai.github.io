@@ -23,30 +23,34 @@ EDUCATION
 Research experience
 ------
 * Major research project: Study on the Molecular Mechanism of ATF5 on Repair and Regeneration of the Liver Injury
-  Researcher of Associate professor Yuan Yunsheng      2018-present, Shanghai
+  \nResearcher of Associate professor Yuan Yunsheng      2018-present, Shanghai
   *	Construct liver-specific ATF5-knock-out mice by Cre-loxP gene recombination technology.
   * Establish animal models including APAP-induced acute liver injury model and high-fat-diet induced NAFLD model.
   * Analyzed lipid and enzyme metabolism by mass spectrometry, lipidomics and proteomics analysis involved.
 
+
 *	Potential therapeutic effects of domain-based Fc fusion mutants of soluble receptor for advanced glycation end products(sRAGE) on APAP-induced liver injury in mice
-  Researcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
+  \nResearcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
   * Construct and express the gene expression vector of Human recombinant sRAGE and its mutants.
   * Conduct animal experiments, including ip. injections, collecting blood by retro-orbital puncture, cervical dislocation and dissection to collect the liver tissue.
-  * Measure the concentration ofcorrelation factors such as GSH and MDA
+  * Measure the concentration of correlation factors such as GSH and MDA
+
 
 * Study on Expression, Purification and Activity of Recombinant Human Osteopontin in Mammalian Cells
-  Research assistant of Associate professor Yuan Yunsheng       2019, Shanghai
+  \nResearch assistant of Associate professor Yuan Yunsheng       2019, Shanghai
   * Assist in the expression of recombinant human Osteopontin by transient transfection ofHEK 293E cells, using the PEI transfection method.
   * Analyzed the size and purity ofthe protein through SDS-page and westernblot
   * Perform a scratch test to detect the migration oftumor cell(A549)
 
+
 * Phosphoproteomic analysis in ConA-induced AML12 cell injury
-  Research assistant ofAssociate professor Yuan Yunsheng        2019, Shanghai
+  \nResearch assistant ofAssociate professor Yuan Yunsheng        2019, Shanghai
   * Assist in the culture ofAML12 cell and HepG2 cell
   * Use Real-time PCR to detect the changes ofFGL1 mRNA levels
 
+
 * Study on the Hepatoprotective Activity ofthe Ethyl Acetate Extract of Cephalonia
-  Researcher ofAssociate professor Wang Guowei             2017-2018, Chongqing
+  \nResearcher ofAssociate professor Wang Guowei             2017-2018, Chongqing
   * Obtain the ethyl acetate extract of Cephalonia through pre-concentration and
 organic solvent extraction
   * Help conduct animal experiments, including gavage and the separation of serum
