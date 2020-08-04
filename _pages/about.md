@@ -16,7 +16,7 @@ EDUCATION
   *	Master of medicine, From Sep. 2018 to 2021(Expected)
 
 * Southwest University, Chongqing, China
-  *	Bachelor ofpharmacy, From Sep. 2014 to Jun. 2018 (<b>Major GPA: 3.78 Ranking: 10/126</b>)
+  *	Bachelor of pharmacy, From Sep. 2014 to Jun. 2018 (<b>Major GPA: 3.78 Ranking: 10/126</b>)
 
 
 Research experience
