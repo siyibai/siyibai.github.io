@@ -28,13 +28,15 @@ Research experience
   * Establish animal models including APAP-induced acute liver injury model and high-fat-diet induced NAFLD model.
   * Analyzed lipid and enzyme metabolism by mass spectrometry, lipidomics and proteomics analysis involved.
 
+<br />
 
 *	Potential therapeutic effects of domain-based Fc fusion mutants of soluble receptor for advanced glycation end products(sRAGE) on APAP-induced liver injury in mice
-  <br />Researcher ofAssociate professor Yuan Yunsheng       2019-present, Shanghai
-  * Construct and express the gene expression vector of Human recombinant sRAGE and its mutants.
-  * Conduct animal experiments, including ip. injections, collecting blood by retro-orbital puncture, cervical dislocation and dissection to collect the liver tissue.
-  * Measure the concentration of correlation factors such as GSH and MDA.
+  <br />Researcher of Associate professor Yuan Yunsheng      2019-present, Shanghai
+    *	Construct and express the gene expression vector of Human recombinant sRAGE and its mutants.
+    * Conduct animal experiments, including ip. injections, collecting blood by retro-orbital puncture, cervical dislocation and dissection to collect the liver tissue.
+    * Measure the concentration of correlation factors such as GSH and MDA.
 
+<br />
 
 * Study on Expression, Purification and Activity of Recombinant Human Osteopontin in Mammalian Cells
   <br />Research assistant of Associate professor Yuan Yunsheng       2019, Shanghai
@@ -42,12 +44,14 @@ Research experience
   * Analyzed the size and purity ofthe protein through SDS-page and westernblot
   * Perform a scratch test to detect the migration oftumor cell(A549)
 
+<br />
 
 * Phosphoproteomic analysis in ConA-induced AML12 cell injury
   <br />Research assistant ofAssociate professor Yuan Yunsheng        2019, Shanghai
   * Assist in the culture ofAML12 cell and HepG2 cell
   * Use Real-time PCR to detect the changes ofFGL1 mRNA levels
 
+<br />
 
 * Study on the Hepatoprotective Activity ofthe Ethyl Acetate Extract of Cephalonia
   <br />Researcher ofAssociate professor Wang Guowei             2017-2018, Chongqing
